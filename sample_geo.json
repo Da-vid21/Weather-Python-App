@@ -1,0 +1,41 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "address":"Dallas, Texas, US",
+            "city":"Dallas",
+            "country":"US",
+            "hostname":"unn-37-19-200-139.datapacket.com",
+            "ip":"37.19.200.139",
+            "lat":32.7831,
+            "lng":-96.8067,
+            "ok":true,
+            "org":"AS212238 Datacamp Limited",
+            "postal":"75201",
+            "raw":{
+               "ip":"37.19.200.139",
+               "hostname":"unn-37-19-200-139.datapacket.com",
+               "city":"Dallas",
+               "region":"Texas",
+               "country":"US",
+               "loc":"32.7831,-96.8067",
+               "org":"AS212238 Datacamp Limited",
+               "postal":"75201",
+               "timezone":"America/Chicago",
+               "readme":"https://ipinfo.io/missingauth"
+            },
+            "state":"Texas",
+            "status":"OK"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -96.8067,
+               32.7831
+            ]
+         }
+      }
+   ]
+}
